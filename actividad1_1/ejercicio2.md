@@ -28,11 +28,11 @@ Lista Desordenada
 ![Escudo Nacional del Perú](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Escudo_nacional_del_Per%C3%BA.png/250px-Escudo_nacional_del_Per%C3%BA.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail)
 ---
 
-[Perfil: DanLop-afk](https://github.com/DanLop-afk/DanLop-afk/blob/main/README.md)
+[Perfil: DanLop-afk](https://danlop-afk.github.io/DanLop-afk/)
 
 ---
 
-![Mapa del Perú](image-1.png)
+![Mapa del Perú](img/ejercicio2/image-1.png)
 
 ---
 
