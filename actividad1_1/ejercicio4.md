@@ -70,20 +70,9 @@ Se abrió con éxito el Pull Request #6 en el repositorio del profesor `(lgarcia
 
 ---
 
-### Paso 11: Aceptación del Pull Request y Sincronización final (Paso pendiente)
-Una vez que el propietario revise y acepte el Pull Request integrando los cambios en la rama principal remota `(main)`, llevaré a cabo la sincronización local ejecutando los siguientes comandos desde la terminal para obtener todas las aportaciones de los demás compañeros:
+### Paso 11: Aceptación del Pull Request y Sincronización final
+Una vez que el propietario revise y acepte el Pull Request integrando los cambios en la rama principal remota `(main)`, llevo a cabo la sincronización local ejecutando los siguientes comandos desde la terminal para obtener todas las aportaciones de los demás compañeros:
 
-```Bash
-# Cambiar a la rama principal local
-git checkout main
 
-# Configurar el repositorio original como upstream (si no se ha añadido previamente)
-git remote add upstream https://github.com/lgarciavelazquez/prueba-pr-iaw_202627.git
-
-# Traer los cambios actualizados del repositorio original
-git fetch upstream
-git merge upstream/main
-
-# Sincronizar la rama main de mi Fork en GitHub
-git push origin main
-```
+![Aceptacion del Pull Request](img/ejercicio4/image-12.png)
+![Sincronizacion local](img/ejercicio4/image-11.png)
